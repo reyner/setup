@@ -12,9 +12,9 @@ There are two options, either setting up Ubuntu as a dual boot/primary OS, or ru
 * Install [homebrew](http://mxcl.github.com/homebrew/)
 
 ##Setting up everything else
-* Get Chrome. No link for this since… come on. 
+* Get Chrome. 
 * Get [node](http://nodejs.org/)
-* Install express by opening up a terminal and typing in ```npm install express```
+* Install express by opening up a terminal and typing in ```npm install express -g```
 * Get a [Github account](https://github.com/)
 * Setup the [public/private github ssh key](https://help.github.com/articles/generating-ssh-keys#platform-linux)
 * Get a [Heroku account](http://www.heroku.com/)
