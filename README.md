@@ -5,7 +5,7 @@ All of this should be done prior to Jan 22. We'll start off the class assuming t
 You'll need either Ubuntu 12.xx or OSX. It's not recommended to use Windows since we won't be able to help you debug if any issues come up.  
 
 ###Ubuntu
-There are two options, either setting up Ubuntu as a dual boot/primary OS, or running it in a VM. If you don't already have Ubuntu, we recommend setting it up as VM. Follow [these instructions](http://www.psychocats.net/ubuntu/virtualbox).  
+There are two options, either setting up Ubuntu as a dual boot/primary OS, or running it in a VM. If you don't already have Ubuntu, we recommend setting it up as VM. Follow [these instructions](http://www.psychocats.net/ubuntu/virtualbox). When choosing your ubuntu install you will need the desktop-1386 version.
 
 ###OSX
 * Install [Xcode](https://developer.apple.com/xcode/)
