@@ -12,7 +12,11 @@ There are two options, either setting up Ubuntu as a dual boot/primary OS, or ru
 * Install [homebrew](http://mxcl.github.com/homebrew/)
 
 ##Setting up everything else
-* Get Chrome. 
+* Get Chrome. To do this,  copy the following commands into your terminal, in order:
+       * wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+       * sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+       * sudo apt-get update
+       * sudo apt-get install google-chrome-stable
 * Get [node](http://nodejs.org/)
 * Install express by opening up a terminal and typing in ```npm install express -g```
 * Get a [Github account](https://github.com/)
