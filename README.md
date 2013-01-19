@@ -34,7 +34,7 @@ sudo apt-get install npm;
 * Get a [Heroku account](http://www.heroku.com/)
 * Do [steps 1-3](https://devcenter.heroku.com/articles/quickstart) to setup Heroku
 
-##Testing
+##Making sure everything works
 If you properly created everything, you should be able to open up a terminal and do the following:
 
 ```
