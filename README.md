@@ -2,17 +2,17 @@
 All of this should be done prior to Jan 22. We'll start off the class assuming that you have these things working.
 
 ##Get the OS
-You'll need either Ubuntu 12.04 or OSX. It's not recommended to use Windows since we won't be able to help you debug if any issues come up.  
+You'll need either Ubuntu 12.04 or OS X. It's not recommended to use Windows since we won't be able to help you debug if any issues come up.  
 
 ###Ubuntu
 There are two options, either setting up Ubuntu as a dual boot/primary OS, or running it in a VM. If you don't already have Ubuntu, we recommend setting it up as VM. Follow [these instructions](http://www.psychocats.net/ubuntu/virtualbox). When choosing your ubuntu install you will need the desktop-1386 version.
 
-###OSX
+###OS X
 * Install [Xcode](https://developer.apple.com/xcode/)
 * Install [homebrew](http://mxcl.github.com/homebrew/)
 
 ##Setting up everything else
-* Get Chrome. In OSX just get the binary and install it. To do this in Ubuntu, copy the following commands into your terminal, in order:
+* Get Chrome. In OS X just get the binary and install it. To do this in Ubuntu, copy the following commands into your terminal, in order:
 
 ```
 wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -;
